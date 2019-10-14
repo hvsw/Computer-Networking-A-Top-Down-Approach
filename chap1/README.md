@@ -54,14 +54,15 @@
 
 ### SECTION 4.6
 
-#### R24. Consider Figure 4.37. Starting with the original table in _D_, suppose that _D_ receives from _A_ the following advertisement:
-Figure 4.37:
+#### R24. Consider Figure 4.37. Starting with the original table in _D_, suppose that _D_ receives from _A_ the following advertisement: 
+
 | Destination Subnet | Next Router | Number of Hops to Destinantion |
-|:------------------:|:-----------:|:------------------------------:|
+|        :---:       |    :---:    |              :---:             |
 |          z         |      C      |                4               |
 |          w         |      -      |                1               |
 |          x         |      -      |                1               |
 |        ....        |     ....    |              ....              |
+> Figure 4.37 pg 386 6th edition
 
 Will the table in _D_ change? If so how?
 
